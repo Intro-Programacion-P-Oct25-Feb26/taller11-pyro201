@@ -1,0 +1,4 @@
+no hubo complicaciones la momento de hacer este código, no hubo mucho que analizar
+ya que fue un código simple, la parte mas importante creo que seria la selección
+de la figura geométrica a la que le sacaremos el área ya que si esta falla no se 
+correrá el código, no aprendí nada nuevo al realizar este ejercicio

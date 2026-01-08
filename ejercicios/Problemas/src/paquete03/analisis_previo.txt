@@ -1,0 +1,4 @@
+para este código necesitaremos pedirle al usuario que especifique que área desea
+calcular, en base a eso usaremos procedimientos don de pediremos los datos
+necesarios para hacerlo para cuadrado pediremos lado, para triangulo pediremos
+base y altura e igual para rectángulo se pedirá base y altura
