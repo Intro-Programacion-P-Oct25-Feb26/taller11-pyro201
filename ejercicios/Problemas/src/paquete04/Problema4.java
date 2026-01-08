@@ -28,13 +28,13 @@ public class Problema4 {
             System.out.println("ingrese su nombre y apellido");
             String name = entrada.nextLine();
             System.out.println("ingrese su numero de cedula");
-            int cedu = entrada.nextInt();;
+            String cedu = entrada.nextLine();
             planilla(name, cedu);
         } else if (operacion == 2) {
             System.out.println("ingrese su nombre y apellido");
             String name = entrada.nextLine();
             System.out.println("ingrese su numero de cedula");
-            int cedu = entrada.nextInt();
+            String cedu = entrada.nextLine();
             predio(name, cedu);
         } else {
             System.out.println("ingrese un valor correspondiente al valor que"
@@ -42,7 +42,7 @@ public class Problema4 {
         }
     }
 
-    public static void planilla(String a, int b) {
+    public static void planilla(String a, String b) {
         System.out.println("ingrese el valor del kilovatio");
         double precio = entrada.nextDouble();
         System.out.println("ingrese la catidad de kilovatios del mes");
@@ -52,7 +52,7 @@ public class Problema4 {
                 a, b, suma);
     }
 
-    public static void predio(String a, int b) {
+    public static void predio(String a, String b) {
         System.out.println("ingrese el valor de su inmueble");
         double precio = entrada.nextDouble();
         double predio = precio * .02;
