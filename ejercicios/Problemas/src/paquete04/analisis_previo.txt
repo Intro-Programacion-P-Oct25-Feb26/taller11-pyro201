@@ -1,0 +1,5 @@
+generaremos un código que le de al usuario a elegir si quiere calcular el valor
+de una planilla de luz o de un inmueble, en caso de seleccionar la planilla se
+pedirá: nombre y apellido, cedula, el precio kilovatio, el numero de kilovatios 
+al mes, y en caso del inmueble se pedirá igual nombres, cedula y el valor del 
+inmueble

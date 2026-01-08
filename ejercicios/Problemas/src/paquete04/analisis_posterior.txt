@@ -1,0 +1,3 @@
+el problema en general estuvo fácil y fue bastante parecido al anterior por lo cual
+no me resulto difícil, al igual que el anterior la parte mas importante considero 
+que es la selección ya que si esta no funciona todo el código entregara error 
