@@ -1,0 +1,4 @@
+al momento de crear el código no tuve muchos inconvenientes, considero que la
+parte mas importante el la comparación para encontrar los números pares, en 
+si el problema no encontré ningún problema para comprender nada del problema
+y desde que leí el problema tuve claro como podría solucionarlo

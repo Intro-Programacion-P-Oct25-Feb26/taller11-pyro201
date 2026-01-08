@@ -20,6 +20,16 @@ public class Problema1 {
     }
 
     public static void imprimirDatos(int[][] datos) {
+        String mensaje = "";
+        for (int i = 0; i < datos.length; i++) {
+            for (int c = 0; c < datos[i].length; c++) {
+                int a = datos[i][c];
+                if ((a % 2) == 0) {
+                    mensaje += String.format("%s, ", datos[i][c]);
+                }
+            }
+        }
+        System.out.printf(mensaje);
 
     }
 

@@ -1,0 +1,4 @@
+el código que vamos a hacer va a utilizar el arreglo bidimensional que nos fue
+proporcionado y vamos a comparar cada dato del arreglo para encontrar solo todos
+los datos que sean pares y presentarlos en pantalla respetando el orden en el que 
+aparecen 
