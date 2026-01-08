@@ -1,0 +1,5 @@
+necesitaremos crear 3 funciones y 1 procedimiento, las cuales llamaremos desde el
+método principal en la 1 función pediremos los nombres de las vivienda, en el 2 
+pediremos el consumo eléctrico mensual, y en el 3 utilizando los datos mensuales
+calcularemos el consumo anual por cada vivienda, y el procedimiento lo usaremos 
+para presentar los datos

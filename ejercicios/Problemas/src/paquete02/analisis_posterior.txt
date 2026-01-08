@@ -1,0 +1,4 @@
+lo mas complicado del programa fue pedir los datos ya que no recordaba bien el
+como pedir los datos, no cometí errores ya que fuera del problema que ya dije no
+fue complejo, en si todo el código es muy importante ya que si alguno de los 
+pasos falla todo el código caerá, me ayudo a recordar como se pedían datos
