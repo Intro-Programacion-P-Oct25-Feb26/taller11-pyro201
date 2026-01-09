@@ -1,0 +1,4 @@
+el problema fue sencillo mas principalmente debido a que ya hemos trabajado con 
+arreglos de ese tipo entonces la solucion estuvo clara desde el inicio y por 
+ende no tuve errores mas que algunos despistes de olvidar cerrar alguna llave,
+al final con este problema no creo haber aprendido nada nuevo 

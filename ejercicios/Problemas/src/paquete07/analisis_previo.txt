@@ -1,0 +1,5 @@
+el problema plante que deberemos crear un metodo para pedir al usuario que nos 
+indique cuantas ciudades desea ingresar y luego por teclado pedirle que ingrese 
+las mismas luego usando un metodo invocado desde el principal presentaremos los
+calores que cumplan con la condicion imouesta, en este caso las ciudades deberan 
+teneer 4 o 5 caracteres 
