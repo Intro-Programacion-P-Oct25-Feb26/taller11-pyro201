@@ -10,5 +10,38 @@ package paquete06;
  * @author reroes
  */
 public class Problema6 {
-    
+
+    public static void main(String[] args) {
+        int[] informacion = {1, 2, 3, 10, 20, 30, 100, 200, 300};
+
+        double promedio = prom(informacion);
+
+        double desviacion = desvia(informacion, promedio);
+
+        System.out.printf("Media aritmetica: %.2f\n", promedio);
+        System.out.printf("Desviacion estandar: %.2f\n", desviacion);
+    }
+
+    public static double prom(int[] a) {
+        int suma = 0;
+        double promedio;
+        for (int i = 0; i < a.length; i++) {
+            suma = suma + a[i];
+
+        }
+        promedio = suma / a.length;
+        return promedio;
+
+    }
+
+    public static double desvia(int[] a, double b) {
+        double suma = 0;
+        for (int i = 0; i < a.length; i++) {
+            suma = suma + Math.pow(a[i] - b, 2);
+        }
+        double v = suma / a.length;
+        return Math.sqrt(v);
+
+    }
+
 }

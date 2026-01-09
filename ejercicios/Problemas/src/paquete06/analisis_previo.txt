@@ -1,0 +1,5 @@
+para solucionar el problema planteado usaremos 2 metodos aparte del principal
+uno se usara para sacar la media aritmetica del arreglo proporcionado y el otro 
+para calcular la  desviacion estandar, a este se le entregara el valor obtenido 
+de la anterior funcion y el arreglo proporcionado, luego usaremos estos datos 
+en el metodo principal para presentarlos

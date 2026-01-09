@@ -1,0 +1,4 @@
+se me complico un poco el usar la formula para calcular la desviacion, en cuanto
+a errores fuera de algunos pequeños despistes no hubo mayor problema, la parte 
+mas importante considero que son las 2 funciones que calculan lo requerido, me 
+ayudo a comprender un poco mejor el como usar formulas matematicas en el codigo

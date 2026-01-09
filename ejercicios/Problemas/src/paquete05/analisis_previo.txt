@@ -1,0 +1,4 @@
+el problema nos plantea que debemos crear un arreglo y una funcion, este arreglo
+ que creamos le asignaremos el valor obtenido al llamar a la funcion que creamos 
+a la cual le entregaremos lo valores proporcionados y esta se encargara de 
+sumarlos y devolver los valores al arreglo crado en el metodo principal
